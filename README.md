@@ -1,2 +1,2 @@
 # yg
-Homepage: [https://y-network.github.io](https://https://y-network.github.io)
+Homepage: [https://y-network.github.io](https://y-network.github.io)
